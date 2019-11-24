@@ -6,6 +6,11 @@ __pycache__/
 # C extensions
 *.so
 
+.idea
+.vscode
+logs/
+.flaskenv
+
 # Distribution / packaging
 .Python
 build/
